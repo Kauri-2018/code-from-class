@@ -1,0 +1,19 @@
+{
+  "name": "play-cowsay",
+  "version": "0.1.0",
+  "description": "Just some cow fun",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "build": "echo Building!!!!!",
+    "test": "jest tests"
+  },
+  "author": "EDA",
+  "license": "MIT",
+  "dependencies": {
+    "cowsay": "^1.2.1"
+  },
+  "devDependencies": {
+    "jest": "^22.4.2"
+  }
+}

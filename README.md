@@ -5,3 +5,4 @@
 * Week 1: Wednesday [data-structures](data-structures)
 * Week 1: Thursday [test-driven development](tdd)
 * Week 1: Friday [express](express)
+* Week 1: Friday [testing-routes](testing-routes)

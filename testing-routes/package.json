@@ -1,0 +1,27 @@
+{
+  "name": "express-server",
+  "version": "1.1.0",
+  "description": "Creating a web server with Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-academy-challenges/express-server.git"
+  },
+  "author": "EDA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-academy-challenges/express-server/issues"
+  },
+  "homepage": "https://github.com/dev-academy-challenges/express-server#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "jest": "^21.2.1",
+    "supertest": "^3.0.0"
+  }
+}

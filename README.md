@@ -9,3 +9,4 @@
 * Week 1: Friday [post-routes](post-routes)
 * Week 2: Monday [callbacks](callbacks)
 * Week 2: Monday [testing-async](testing-async)
+* Week 2: Tuesday [handlebars](handlebars)

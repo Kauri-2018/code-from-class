@@ -1,0 +1,11 @@
+  <h1>Yay! We're home!</h1>
+
+  {{#if showColors}}
+    <ul>
+    {{#each colors}}
+      <li>{{name}}</li>
+    {{/each}}
+    </ul>
+  {{/if}}
+
+  {{> names}}

@@ -10,3 +10,4 @@
 * Week 2: Monday [callbacks](callbacks)
 * Week 2: Monday [testing-async](testing-async)
 * Week 2: Tuesday [handlebars](handlebars)
+* Week 2: Tuesday [testing-handlebars](testing-handlebars)

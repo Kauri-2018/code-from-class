@@ -15,3 +15,4 @@
 * Week 3: Monday [knex-intro](knex-intro)
 * Week 3: Monday [promises](promises)
 * Week 3: Tuesday [knex-joins](knex-joins)
+* Week 3: Tuesday [db-testing](db-testing)

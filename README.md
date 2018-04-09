@@ -20,3 +20,4 @@
 * Week 3: Thursday [db-post-inserts](db-post-inserts)
 * Week 4: Monday [react-intro](react-intro)
 * Week 4: Monday [react-classes](react-classes)
+* Week 4: Tuesday [react-state](react-state)

@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah",
+    "color": "Coral"
+  }, {
+    "id": 2,
+    "name": "Frank",
+    "color": "DarkTurquoise"
+  }, {
+    "id": 3,
+    "name": "Tori",
+    "color": "MediumOrchid"
+  }, {
+    "id": 4,
+    "name": "Mayur",
+    "color": "SeaGreen"
+  }
+]

@@ -21,3 +21,4 @@
 * Week 4: Monday [react-intro](react-intro)
 * Week 4: Monday [react-classes](react-classes)
 * Week 4: Tuesday [react-state](react-state)
+* Week 4: Wednesday [react-routing](react-routing)

@@ -26,3 +26,4 @@
 * Week 5: Monday [api-intro](api-intro)
 * Week 5: Monday [api-testing](api-testing)
 * Week 5: Tuesday [restful-react-from-scratch](restful-react-from-scratch)
+* Week 5: Tuesday [enzyme-intro](enzyme-intro)

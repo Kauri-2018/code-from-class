@@ -28,3 +28,4 @@
 * Week 5: Tuesday [restful-react-from-scratch](restful-react-from-scratch)
 * Week 5: Tuesday [enzyme-intro](enzyme-intro)
 * Week 5: Wednesday [external-apis](external-apis)
+* Week 5: Thursday [object-orientation-es5](object-orientation-es5)

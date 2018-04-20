@@ -29,3 +29,4 @@
 * Week 5: Tuesday [enzyme-intro](enzyme-intro)
 * Week 5: Wednesday [external-apis](external-apis)
 * Week 5: Thursday [object-orientation-es5](object-orientation-es5)
+* Week 5: Saturday [server-side-api-consumption](server-side-api-consumption)

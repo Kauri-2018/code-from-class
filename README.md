@@ -32,3 +32,4 @@
 * Week 5: Saturday [server-side-api-consumption](server-side-api-consumption)
 * Week 5: Saturday [array-widgets-to-db](array-widgets-to-db)
 * Week 6: Monday [redux-intro](redux-intro)
+* Week 6: Tuesday [react-redux-intro](react-redux-intro)

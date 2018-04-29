@@ -34,3 +34,4 @@
 * Week 6: Monday [redux-intro](redux-intro)
 * Week 6: Tuesday [react-redux-intro](react-redux-intro)
 * Week 6: Wednesday [thunk-intro](thunk-intro)
+* Week 7: Monday [jwt-auth](jwt-auth)

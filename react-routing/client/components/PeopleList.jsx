@@ -1,20 +1,25 @@
 import React from 'react'
 import {Link} from 'react-router-dom'
 
-import list from '../../colors.json'
+import colors from '../../colors.json'
 
 const PeopleList = () => {
   return (
-    <div className='people-list'>
-      <h1>People List</h1>
+    <div>
+      <h1>Color Demo</h1>
       <ul>
-        {list.map(person => {
-          return (
-            <li key={person.id}>
-              <Link to={`/person/${person.id}`}>{person.name}</Link>
-            </li>
-          )
-        })}
+        {
+          colors.map(
+            person => {
+              return (
+                <li key = {person.id}>
+                  <Link to={`/person/${person.id}`} >
+                    {person.name}
+                  </Link>
+                </li>
+              )
+            })
+        }
       </ul>
     </div>
   )

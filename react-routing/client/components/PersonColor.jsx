@@ -1,36 +1,15 @@
 import React from 'react'
+import color from '../../colors.json'
 
-import ColorName from './ColorName'
-import list from '../../colors.json'
-
-class PersonColor extends React.Component {
-  constructor (props) {
-    super(props)
-    this.state = {
-      isShowingColor: false
-    }
-    this.toggleColor = this.toggleColor.bind(this)
-  }
-
-  toggleColor () {
-    this.setState({
-      isShowingColor: !this.state.isShowingColor
-    })
-  }
-
-  render () {
-    const id = Number(this.props.match.params.id)
-    const person = list.find(p => p.id === id)
-    const color = {color: person.color}
-    return (
-      <div className='person-color'>
-        <h1 style={color}>{person.name}</h1>
-        <button onClick={this.toggleColor}>Toggle colour name</button>
-        {/* this.state.isShowingColor ? <ColorName name={person.color} /> : null */}
-        {this.state.isShowingColor && <ColorName name={person.color} />}
-      </div>
-    )
-  }
+const PersonColor = (props) => {
+  const id = Number(props.match.params.id)
+  const person = color.find(p => p.id === id)
+  return (
+    <div>
+      <h1 style={{color: person.color}}>{person.name}</h1>
+      <button>Toggle Color Name</button>
+    </div>
+  )
 }
 
 export default PersonColor

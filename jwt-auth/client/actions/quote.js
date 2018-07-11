@@ -30,15 +30,15 @@ export function receiveQuote (quote, user) {
   quote = user ? `${quote} ${user}` : quote
   return {
     type: QUOTE_SUCCESS,
-    isFetching: false,
+    // isFetching: false,
     response: quote
   }
 }
 
 function requestQuote () {
   return {
-    type: QUOTE_REQUEST,
-    isFetching: true
+    type: QUOTE_REQUEST
+    // isFetching: true
   }
 }
 

@@ -20,14 +20,6 @@ class App extends React.Component {
         }
       ]
     }
-    this.addToList = this.addToList.bind(this)
-  }
-
-  addToList (newTown) {
-    newTown.id = this.state.list.length + 1
-    this.setState({
-      list: [...this.state.list, newTown]
-    })
   }
 
   render () {
